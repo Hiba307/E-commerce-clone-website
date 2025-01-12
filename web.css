@@ -6,7 +6,7 @@
     background-color: rgb(224, 52, 81);
     padding-bottom: 50px;
     padding-top: 10px;
-    width: 1400px;
+    width: 1500px;
 }
 .nav{
     display: flex;
@@ -35,7 +35,7 @@ a:hover{
  .bg{
     background-image: url(pics/pexels-ds-stories-7256120.jpg);
     height: 800px;
-    width: 1400px;
+    width: 1500px;
     background-size:cover;
    
  }
@@ -246,7 +246,7 @@ border-radius: 10px;
  footer{
     background-color:  rgb(245, 118, 139);
     height: 400px;
-    width: 1400px;
+    width: 1500px;
     margin-top: 150px;
  }
  
@@ -254,7 +254,7 @@ border-radius: 10px;
  .yes{
    background-color: rgb(224, 52, 81) ;
     height: 60px;
-    width: 1400px;
+    width: 1500px;
  }
  #last{
     margin-left: 450px;
