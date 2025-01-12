@@ -1,4 +1,4 @@
-# E-commerce-clone-website
+# Makeup-Clone-Website
 
 This repository contains the code for a makeup products website clone, built using only HTML and CSS. The project is designed to replicate the sleek, modern aesthetic of a real-world e-commerce site, showcasing a variety of makeup products in a clean and responsive layout.
 
